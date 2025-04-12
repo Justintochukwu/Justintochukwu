@@ -9,7 +9,8 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [AI learning assistant app]
+- [ALX Elevation Pitch]
+- [https://youtu.be/WvJ3p3zaJUQ]
 
 <h2> 🤳 Connect with me:</h2>
 
