@@ -1,8 +1,3 @@
-Here’s a professional GitHub README template to help revamp your profile. It uses HTML markup inside Markdown for a clean, standout presentation and highlights your journey, passion, and goals as a backend developer.
-
-
----
-
 <h1 align="center">Hi there, I'm Tochukwu Justin. 👋</h1>
 
 <p align="center">
@@ -85,12 +80,4 @@ Here’s a professional GitHub README template to help revamp your profile. It u
 
 <p>I once designed a wireless microphone and a microprocessor-based automatic changeover switch!</p>
 
----
-
-
----
-
-You can copy and paste this into your GitHub profile’s README.md (in a repo named after your username).
-
-Would you like me to help personalize it further with your actual project links, LinkedIn profile, and preferred tech tools?
 
